@@ -95,3 +95,14 @@ h1{
 #time{
     text-align: right;
 }
+@media only screen and (max-width: 500px) {
+    .blog{
+        width: 95%;
+    }
+    #time{
+        padding-right: 10px;
+    }
+    #p2{
+        width: 95%;
+    }
+  }
