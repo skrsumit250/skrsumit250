@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at the Indian Institute of Technology Guwahati
+- 🎓 IIT Guwahati Graduate
 - 🌱 I’m currently learning about Data Science
 - 📫 How to reach me: Gmail: skrsumit250@gmail.com
 <!--
